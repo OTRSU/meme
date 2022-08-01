@@ -1,5 +1,4 @@
 # memes
 
-{% codeblock title lang:language URL link_text %}
+How to use:
 wget https://github.com/OTRSU/meme/raw/main/main.sh | bash main.sh
-{% endcodeblock %}
